@@ -1,5 +1,5 @@
 {
-    "name": "warlof/seat-discord-connector",
+    "name": "jgrancell/seat-discord-connector",
     "description": "A SeAT plugin which maintain user access on a Discord Guild based on defined pattern.",
     "type": "seat-plugin",
     "minimum-stability": "dev",
@@ -16,7 +16,7 @@
     },
     "require": {
         "ext-json": "*",
-        "warlof/seat-connector": "^2.0",
+        "jgrancell/seat-connector": "^2.0",
         "socialiteproviders/discord": "^v2.0"
     },
     "require-dev": {
